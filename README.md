@@ -3,6 +3,7 @@
 ![Logs Eugolino](https://healthchecks.io/b/2/2275eedf-32bd-4644-8db9-b81fb218ca9f.svg)
 
 # EUgolino
+*Feed yourself with knowledge.*
 
 ## Index
   - [Description](#description)
