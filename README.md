@@ -25,20 +25,20 @@ EUgolino feeds himself with the knowledge of scientific papers.
 ### Download
 Download the repository from Github.
 
-    git clone https://github.com/ozneroL541/EUgolino.git
+    git clone https://github.com/ozneroL541/eugolino.git
 
 ### Requirements
 Install the required packages by running the script `requirements.sh`.
-> **Note:** The script works with Debian-based Linux Distribution, if you have another Operative System, please install them manually by looking inside `EUgolino/requirements.sh` file.
+> **Note:** The script works with Debian-based Linux Distribution, if you have another Operative System, please install them manually by looking inside `eugolino/requirements.sh` file.
 
-    ./EUgolino/requirements.sh
+    ./eugolino/requirements.sh
 
 Enter the folder.
 
-    cd EUgolino
+    cd eugolino
 
 ### Configure
-Add the file with the PDF's links to the main ```EUgolino``` directory or to the directory you prefer (remember to edit the configuration file specifying it).
+Add the file with the PDF's links to the main ```eugolino``` directory or to the directory you prefer (remember to edit the configuration file specifying it).
 
 Edit the ```config.py``` file with your own configuration.
 
